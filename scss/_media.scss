@@ -1,4 +1,10 @@
 @media (max-width: 1440px) {
+  .benefit__header {
+    background-size: auto;
+}
+}
+
+@media (max-width: 1240px) {
   h2.title {
     font-size: 44px;
   }
@@ -343,7 +349,8 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 780px) {
+
   h2.title {
     font-size: 28px;
   }

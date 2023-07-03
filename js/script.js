@@ -30,6 +30,7 @@ if ($homeSlider.data("owlCarousel") !== "undefined") {
   }
 }
 }
+
 showHomeSlider();
 
 function initialHomeSlider() {
@@ -42,6 +43,3 @@ $homeSlider.addClass("owl-carousel").owlCarousel({
 function destroyHomeSlider() {
 $homeSlider.trigger("destroy.owl.carousel").removeClass("owl-carousel");
 }
-
-
-
