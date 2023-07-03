@@ -264,7 +264,7 @@
     height: 80px;
   }
 }
-@media (max-width: 790px) {
+@media (max-width: 835px) {
  
   .header::before {
     width: 22%;
@@ -630,7 +630,7 @@
     height: 650px;
   }
 }
-@media (max-width:490px) {
+@media (max-width:510px) {
   .header__title {
     font-size: 25px;
     line-height: 185%;
@@ -680,7 +680,7 @@
     margin-bottom: 12px;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 400px) {
   .container {
     padding: 0 15px;
   }
