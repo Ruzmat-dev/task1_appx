@@ -220,6 +220,7 @@ body {
 /* Sphere */
 .sphere {
   padding-bottom: 100px;
+  margin-top: 80px;
 }
 .sphere__title {
   font-size: 48px;
@@ -938,7 +939,7 @@ body {
   position: relative;
   width: 1210px;
   height: 730px;
-  background-image: url("img/cta-bg.jpg");
+  background-image: url("../img/cta-bg.jpg");
   background-repeat: no-repeat;
   z-index: 1;
   padding: 56px 64px 56px 56px;
